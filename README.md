@@ -9,6 +9,8 @@ Discentes:
 - Angelo Leite Medeiros de Góes (20251012333)
 - William Marcelino Costa do Nascimento (20251026230)
 
+Link do vídeo: https://drive.google.com/file/d/11izD6TU2eRrJTTEc6qDhziOLLqjPjCOV/view?usp=sharing
+
 Este trabalho investiga a criação de agentes com a plataforma ADK do Google para auxiliar na criação e desenvolvimento de trabalhos acadêmicos.
 
 Foi desenvolvido um sistema de agentes para organizar rotina de trabalho, revisar textos acadêmicos e pesquisar literatura científica.
