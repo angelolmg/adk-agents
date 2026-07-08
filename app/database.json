@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Rodar os experimentos da minha pesquisa",
+        "tipo": "tarefa",
+        "data": "2026-07-02",
+        "descrição": "Rodar os experimentos do tcp e do udp"
+    },
+    {
+        "titulo": "Talk to Angelo",
+        "tipo": "tarefa",
+        "data": "2026-07-02",
+        "descrição": "Morning"
+    }
+]
